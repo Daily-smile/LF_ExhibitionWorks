@@ -1,2 +1,3 @@
-# LF_ExhibitionWorks
-A personal game portfolio showcase.
+作品集
+用于一些个人的作品集展示。
+注：仅供作品展示。作者请联系hsgcc520@163.com。
